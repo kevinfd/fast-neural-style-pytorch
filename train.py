@@ -165,4 +165,4 @@ def train():
     if (PLOT_LOSS):
         utils.plot_loss_hist(content_loss_history, style_loss_history, total_loss_history)
 
-train()
+# train()
